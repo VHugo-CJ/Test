@@ -1,1 +1,2 @@
 Agregando nueva línea
+modificando probando .gitignore

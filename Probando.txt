@@ -1,1 +1,2 @@
 print("mas simple")
+probando git.gnore
