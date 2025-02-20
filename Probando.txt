@@ -1,2 +1,2 @@
 print("mas simple")
-probando git.gnore
+probando .gitignore
