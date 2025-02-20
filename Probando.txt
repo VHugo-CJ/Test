@@ -1,3 +1,1 @@
-Esto es una prueba
-Nueva línea de código
-Nueva línea de código 2
+print("Hola mundo")
